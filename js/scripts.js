@@ -18,7 +18,7 @@
          $("#loginModal").modal("show");
      });
 
-     $("#reservationbtn").click(function() {
-         $("#reservationForm").modal("show");
+     $("#registerbtn").click(function() {
+         $("#registrationForm").modal("show");
      });
  });
